@@ -6,6 +6,7 @@ def array_with_two_elements
   ["a", "b"]
 end
 
-def first_element (["taylor_swift"])
- first_element [0]
+def first_element 
+  my_first_element = ["taylor_swift"]
+  my_first_element [0]
 end
