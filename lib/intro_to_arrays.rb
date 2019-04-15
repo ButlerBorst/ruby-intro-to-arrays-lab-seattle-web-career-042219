@@ -8,5 +8,5 @@ end
 
 def first_element 
   my_first_element = []
-  my_first_element [1]
+  my_first_element ["taylor_swift"]
 end
